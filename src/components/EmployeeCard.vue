@@ -96,7 +96,6 @@ export default {
     padding: .5rem;
     gap: .5rem;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    // transition: all ease-in 300ms;
     animation: fade-in 500ms;
 
     .emp-card-header {
@@ -170,6 +169,8 @@ export default {
       }
     }
   }
+
+  /* Responsive Designs */
 
   @media (min-width: 320px) and (max-width: 812px) {
     .emp-card {

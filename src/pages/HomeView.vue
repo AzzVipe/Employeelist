@@ -41,9 +41,7 @@
           </div>
         </div>
         <div class="right-nav">
-          <div class="circle"></div>
-          <div class="circle"></div>
-          <div class="circle"></div>
+          <div v-for="i in 3" :key="i" class="circle"></div>
         </div>
       </div>
     </section>
@@ -73,19 +71,10 @@ export default {
 
   mounted() {
     this.users = userData.users;
-    
-    // if(this.users.length > this.maxUsersInSinglePage)
-    //   this.sortedUsers = this.users.slice(0, this.maxUsersInSinglePage);
-    // else 
     this.sortedUsers = this.users;
-    // console.log(this.users[0].status);
   },
 
   methods: {
-    printStatus() {
-      console.log(this.statusArray[0]);
-    },
-
     sortUsers() {
       if (this.statusArray.length === 0) {
         this.sortedUsers = this.users;
@@ -247,6 +236,8 @@ export default {
       }
     }
   }
+
+  /* Responsive Designs */
 
   @media (min-width: 320px) and (max-width: 812px) {
 
