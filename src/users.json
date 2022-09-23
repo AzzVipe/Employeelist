@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ronald Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Project Manager",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Cameron Williamson",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "UI Designer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unactive"
+    },
+    {
+      "id": 3,
+      "name": "Kathryn Murphy",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "UI Designer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Floyd Miles",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Digital Marketing",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Leslie Alexander",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Digital Marketing",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unactive"
+    },
+    {
+      "id": 6,
+      "name": "Diana Russell",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unactive"
+    },
+    {
+      "id": 7,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unverified"
+    },
+    {
+      "id": 8,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unactive"
+    },
+    {
+      "id": 9,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "unverified"
+    },
+    {
+      "id": 10,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "name": "Courtney Richards",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "name": "Savanah Nguyen",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "name": "Savanah Nguyen",
+      "imgsrc": "/home/azzvipe/apps/emplist/src/assets/avatar-male.jpg",
+      "designation": "Back-End Developer",
+      "department": "Design Team",
+      "dateHired": "17/03/2021",
+      "email": "test@gmail.com",
+      "phone": "1-102-555-0129",
+      "status": "active"
+    }
+  ]
+}
